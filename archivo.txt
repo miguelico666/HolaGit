@@ -1,1 +1,6 @@
 Archivo.txt
+línea
+ línea
+ línea
+ línea
+ línea desde Main
